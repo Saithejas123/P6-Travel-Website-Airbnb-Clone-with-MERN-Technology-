@@ -1,4 +1,4 @@
-# WanderLust : Listing and Review Management Web Application
+# Travelling System: Listing and Review Management Web Application
 
 **WanderLust** is a comprehensive web application that allows users to discover, manage, and review travel accommodations.  
 **Live Project**: [View Live Project](https://wanderlust-project-l6gm.onrender.com)
